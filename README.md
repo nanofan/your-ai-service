@@ -23,7 +23,7 @@ This app is powered by:
 1. Install a recent version of [Node.js](https://nodejs.org/)
 1. Copy your [Replicate API token](https://replicate.com/account?utm_source=project&utm_campaign=scribblediffusion) and set it in your environment:
    ```
-   echo "REPLICATE_API_TOKEN=<your-token-here>" > .env.local
+   echo "REPLICATE_API_TOKEN=<8434915897d9eea1e79302c0727e2b79005408b7>" > .env.local
    ```
 1. Install dependencies and run the server:
    ```
